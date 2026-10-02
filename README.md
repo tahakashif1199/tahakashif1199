@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Data Science student at UET Lahore with a strong focus on artificial intelligence, machine learning, and computer vision. My background includes hands-on experience building automated security solutions and interactive vision-based applications, complemented by active internships at FlyRank and Zenvyro Labs. I am passionate about leveraging data engineering, cloud technologies, and generative AI to solve complex problems and build impactful, data-driven systems.
+I am a Data Science student at UET Lahore with a strong focus on artificial intelligence, machine learning, and computer vision. My background includes hands-on experience building automated security solutions and interactive vision-based applications. I am passionate about leveraging data engineering, oops, and generative AI to solve complex problems and build impactful, data-driven systems.
 
 ## Skills & Technologies
 
@@ -30,5 +30,5 @@ Bachelor of Science in Data Science, UET Lahore
 ## Contact
 
 * Email: taha.kashif.1199.com
-* LinkedIn: linkedin.com/in/taha-kashif/
+* LinkedIn: https://linkedin.com/in/taha-kashif/
 * GitHub: https://github.com/tahakashif1199/
